@@ -1,3 +1,6 @@
+’m a Computer Science Student from Giani Zail Singh Campus College of Engineering and Technology,Maharaja Ranjit Singh University.
+
+
 - 👋 Hi, I’m @Manishkumar76
 - 👀 I’m interested in ...web development, Data Structre and algorithums and Machine learning
 - 🌱 I’m currently learning ...Data structure and STL.

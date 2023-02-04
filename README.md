@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manish Kumar</h1>
 <h3 align="center"> Want to become Fullstack-developer </h3>
 <img align="center" alt="coding" width="1000" src="My profile.gif">
-
+<img align="right" alt="codeing_gif" width="400" src="code-coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishkumar76&label=Profile%20views&color=0e75b6&style=flat" alt="manishkumar76" /> </p>
 
 - 🔭 I’m currently working on **React.js**

@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Manish Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<center><img style="border-radius="40px"; "  align="center" alt="coding" width="1000" src="My profile.gif"></center>
+<img align="center" alt="coding" width="1000" src="My profile.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishkumar76&label=Profile%20views&color=0e75b6&style=flat" alt="manishkumar76" /> </p>
 
 - 🔭 I’m currently working on **React.js**
 
-- 🌱 I’m currently learning **React.js & DSA**
+- 🌱 I’m currently learning **JavaScript & DSA**
 
 - 👨‍💻 All of my projects are available at [https://replit.com/@ManishKumar393](https://replit.com/@ManishKumar393)
 

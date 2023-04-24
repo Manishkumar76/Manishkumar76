@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **React.js**
 
-- 🌱 I’m currently learning **React.js & DSA**
+- 🌱 I’m currently learning **React.js & OOPS**
 
 - 👨‍💻 All of my projects are available at [https://replit.com/@ManishKumar393](https://replit.com/@ManishKumar393)
 

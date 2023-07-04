@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Manish Kumar</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishkumar76&label=Profile%20views&color=0e75b6&style=flat" alt="manishkumar76" /> </p>
 
-- 🔭 I’m currently working on **React.js**
+- 🔭 I’m currently working on **Flutter Framework**
 
-- 🌱 I’m currently learning **React.js & OOPS**
+- 🌱 I’m currently learning **Flutter & Dart**
 
 - 👨‍💻 All of my projects are available at [https://replit.com/@ManishKumar393](https://replit.com/@ManishKumar393)
 

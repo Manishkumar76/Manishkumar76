@@ -7,13 +7,11 @@
 
 - 🌱 I’m currently learning **Flutter & Dart**
 
-- 👨‍💻 All of my projects are available at [https://replit.com/@ManishKumar393](https://replit.com/@ManishKumar393)
+- 👨‍💻 All of my projects are available at [https://github.com/Manishkumar76](GitHub)
 
-- 📝 I regularly write codes on [https://replit.com/@ManishKumar393](https://replit.com/@ManishKumar393)
+- 📫 How to reach me **mkshakya794@gmail.com** M.no:76967-88581
 
-- 📫 How to reach me **mkshakya794@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/16oIxnpktzo5hPDarajs4ONlCE7OFjDre/view](https://drive.google.com/file/d/16oIxnpktzo5hPDarajs4ONlCE7OFjDre/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1o3S7RL42E0F_Df5zxgmh9AJpvvpPYBOR/view?usp=drivesdk](watch resume)
 
 - ⚡ Fun fact **I think I am funny**
 

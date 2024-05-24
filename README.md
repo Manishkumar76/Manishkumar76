@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mkshakya794@gmail.com** M.no:76967-88581
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1o3S7RL42E0F_Df5zxgmh9AJpvvpPYBOR/view?usp=drivesdk](watch resume)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1o3S7RL42E0F_Df5zxgmh9AJpvvpPYBOR/view?usp=drivesdk] (watch resume)
 
 - ⚡ Fun fact **I think I am funny**
 

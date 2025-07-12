@@ -2,19 +2,7 @@
 <img align="right" alt="codeing_gif" width="400" src="code-coding.gif">
 <h1 align="center">Hi 👋, I'm Manish Kumar</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishkumar76&label=Profile%20views&color=0e75b6&style=flat" alt="manishkumar76" /> </p>
-
-- 🔭 I’m currently working on **Flutter Framework**
-
-- 🌱 I’m currently learning **Flutter & Dart**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Manishkumar76](GitHub)
-
 - 📫 How to reach me **mkshakya794@gmail.com** M.no:76967-88581
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1a8y9Yn8EEn96NAY8qQUwd4NWTUDcBAnQ/view?usp=drive_link] (watch resume)
-
-- ⚡ Fun fact **I think I am funny**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/manish-coder-pb15/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/manish-coder-pb15" height="30" width="40" /></a>
@@ -33,4 +21,3 @@
 <center><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manishkumar76&show_icons=true&locale=en" alt="manishkumar76" /></p></center>
 
 <center><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manishkumar76&" alt="manishkumar76" /></p></center>
-<center><img src="Manish kumar.gif"></center>
